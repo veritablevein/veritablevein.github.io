@@ -1,0 +1,4 @@
+baseURL = 'https://veritablevein.github.io'
+languageCode = 'zh-CN'
+title = '我的第一个Hugo网页'
+theme = 'ananke'
